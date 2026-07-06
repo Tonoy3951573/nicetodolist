@@ -33,12 +33,12 @@ Make sure you have Node.js installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Tonoy3951573/nicetodolist.git
    ```
 
 2. Navigate into the project directory:
    ```bash
-   cd todolist2
+   cd nicetodolist
    ```
 
 3. Install dependencies:
