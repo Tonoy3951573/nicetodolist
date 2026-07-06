@@ -141,7 +141,7 @@ function App() {
                   </EmptyState.Indicator>
                   <EmptyState.Title>Nothing To Do Today</EmptyState.Title>
                   <EmptyState.Description>
-                    Little Gost is very sad. Add some task to make him happy
+                    Little Ghost is very sad. Add some task to make him happy
                   </EmptyState.Description>
                 </EmptyState.Content>
               </EmptyState.Root>
